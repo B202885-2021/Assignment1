@@ -1,4 +1,23 @@
-* d93628c : fastqc quality analysis
-* a6a6cbb : fastq files and fastqc module
-* 256a9a3 : fastq files and fastqc module
-* 6284ec9 : Assignment 1 submission
+commit d6c3ea14448a40e6dc8dd2a5ab7c4833e1ad12fb
+Author: B202885-2021 <email_not_provided>
+Date:   Sun Oct 24 21:58:34 2021 +0100
+
+    Final submission
+
+commit b994624d6f8f61285204344ebbf106b1e54cd7f1
+Author: B202885-2021 <email_not_provided>
+Date:   Wed Oct 13 19:03:54 2021 +0100
+
+    produced quality check reports, need to analyse
+
+commit 7727b0db9b8f1eea322d0105619c063270f9dda8
+Author: B202885-2021 <email_not_provided>
+Date:   Wed Oct 13 13:36:36 2021 +0100
+
+    The file of all the things I did, and the pipeline code
+
+commit 6284ec97b88cea35d28447f33a99af9f22256450
+Author: B202885-2021 <email_not_provided>
+Date:   Sun Oct 10 17:35:25 2021 +0100
+
+    Assignment 1 submission
